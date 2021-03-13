@@ -9,9 +9,6 @@ In this project two design patterns were implemented:
 -iterator pattern
 More information about those patterns and the test framework used can be found in the [final report](homework2.pdf) of the assignment.
 
-## Code documentation
-The generated JavaDoc of the adapters can be found [here](/javaDoc/), whereas the SAFe doc of each test can be found [here](/testDoc/). 
-
 ## Run tests
 To run the tests, move to the [src](/src) folder and use the following commands
 ```
