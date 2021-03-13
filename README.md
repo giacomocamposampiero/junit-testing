@@ -1,5 +1,5 @@
 # junit_testing
-A concrete adaptation of basic data structures of JME CLDC 1.1 to more complex data structure interfaces defined in the Collection Framework of Java J2SE 1.4.2, developed using a test-driven approach with JUnit 4.13 library. This project was a homework for a Software Engineering course that I attended during my BSc second year. The project documents, as well as the software documentation, are in Italian.
+A concrete adaptation of basic data structures of JME CLDC 1.1 to more complex data structure interfaces defined in the Collection Framework of Java J2SE 1.4.2, developed using a test-driven approach with JUnit 4.13 library. T
 
 ## Project goals
 The goal of this project was to provide a concrete implementation of some data structure interfaces used by a given library developed for J2SE 1.4.2 in a JME CLDC 1.1 environment. 
@@ -17,6 +17,3 @@ export CLASSPATH=$CLASSPATH:$JUNIT_HOME/junit4.jar
 javac -cp "./*" adapters/*.java exceptions/*.java interfaces/*.java tester/*.java
 java tester.TestRunner
 ```
-
-## Course link
-Link to the software engineering course [here](https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084339/N0).
